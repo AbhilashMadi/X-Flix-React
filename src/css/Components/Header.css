@@ -1,0 +1,27 @@
+.header{
+    display: flex;;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #202020;
+    height: 5vh;
+    padding: 1rem;
+}
+
+.xflix-icon{
+   height:2rem;
+}
+
+.search-bar{
+    border: 1px solid #444D56;
+    border-radius: 6px;
+}
+
+.logo{
+    width: 100px;
+}
+
+/* @media (max-width:560px) {
+    .search-bar{
+        width:180px;
+    }
+} */

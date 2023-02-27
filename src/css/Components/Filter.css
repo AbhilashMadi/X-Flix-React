@@ -1,0 +1,12 @@
+.filter-panel{
+    background-color: #202020;
+    height:auto;
+}
+
+.filter-list{
+    overflow: auto;
+}
+
+.filter-list::-webkit-scrollbar{
+    height: 0;
+}
